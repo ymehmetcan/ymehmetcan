@@ -10,4 +10,4 @@ Enthusiastic about exploring new ideas, teaching, and mentoring. Dedicated to cr
 
 ### 🛠 Tech Stack
 
-<img height="30" src="https://api.iconify.design/logos-react.svg"> <img height="30" src="https://api.iconify.design/logos-vue.svg"> <img height="30" src="https://api.iconify.design/logos-nuxt-icon.svg"> <img height="30" src="https://api.iconify.design/logos-nodejs-icon.svg"> <img height="30" src="https://api.iconify.design/logos-vitejs.svg"> <img height="30" src="https://api.iconify.design/logos-pnpm.svg">
+<img height="30" src="https://api.iconify.design/logos-react.svg"> <img height="30" src="https://api.iconify.design/teenyicons/nextjs-solid.svg?color=%23f3f3f3">  <img height="30" src="https://api.iconify.design/logos-vue.svg"> <img height="30" src="https://api.iconify.design/logos-nuxt-icon.svg"> <img height="30" src="https://api.iconify.design/logos-nodejs-icon.svg"> <img height="30" src="https://api.iconify.design/logos-vitejs.svg"> <img height="30" src="https://api.iconify.design/logos-pnpm.svg">
