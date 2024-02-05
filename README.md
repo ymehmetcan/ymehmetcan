@@ -4,9 +4,26 @@
 
 Enthusiastic about exploring new ideas, teaching, and mentoring. Dedicated to crafting efficient solutions and upholding **best coding practices**. Let's collaborate and build something **extraordinary together**!
 
-### Contact Me 📫
+- 🔭 I’m currently working on [⚡️ Blazzi](https://github.com/ymehmetcan/blazzi-toolkit)
+- 🌱 I’m currently learning **Bun** and **GoLang**
+- 💬 Ask me about **JavaScript, TypeScript, React, Vue and Node.js**
 
-[👔 LinkedIn](https://linkedin.com/in/ymehmetcan) | [🐦 Twitter](https://twitter.com/y_mehmetcan)
+- 🎸 Fun fact: I love to play **synth, guitar and drums**
+
+
+### 📫 Contact Me 
+
+<div>
+<a href="https://twitter.com/y_mehmetcan">
+   <img align="left" alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" style="margin-right:10px;" />
+</a>
+<a href="https://www.linkedin.com/in/ymehmetcan">
+   <img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</div>
+<br />
+<br />
+
 
 ### 🛠 Tech Stack
 
